@@ -1,0 +1,5 @@
+Yêu cầu để chạy file JAR:
++ Cài đặt môi trường java ( khuyến nghị java version "19.0.2" 2023-01-17)
++ Cài đặt VSCODE
+	++ Cài đặt "Extension Pack for Java" của vscode
+Video hướng dẫn kết nối JDBC với Sql server: https://youtu.be/5Nwk8rCLv7Y?si=dKv3aat_3SkhVdjb
